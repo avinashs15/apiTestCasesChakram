@@ -1,7 +1,7 @@
 {
    
    "username" :"<userNameForGitHub>",
-   "password" :"PasswordForGitHub",
+   "password" :"<PasswordForGitHub>",
    "githubRepo" :"https://api.github.com/user/repos",
    "gitHubAPIRepo" : "https://api.github.com/repos/"
 }
