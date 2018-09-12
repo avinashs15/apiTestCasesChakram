@@ -1,5 +1,7 @@
 This Project uses mocha, chakram and mochawesome reporter npm packages
 
+This Project automates API which creates, validates and deletes repository in github(user needs to create a github user)
+
 Prerequisite : Nodejs and NPM is installed
 
 Running the test case:
@@ -38,7 +40,7 @@ Directory structure
                 
             -- data
             
-                data.json (has username, password and other enveironment data)
+                data.json (has username, password and other enveironment data) => Note . Provide your github username and password
                 
             --mochawesome-report
             
