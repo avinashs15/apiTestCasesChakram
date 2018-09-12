@@ -1,8 +1,7 @@
 {
-   "clientID": "d074c7fe359074d96589",
-   "clientSecret" : "03511ba0a128f1f539d6d81a84079eb7c2dc32c1",
-   "username" :"new10TestUser",
-   "password" :"Pa$$word08*#",
+   
+   "username" :"<userNameForGitHub>",
+   "password" :"PasswordForGitHub",
    "githubRepo" :"https://api.github.com/user/repos",
    "gitHubAPIRepo" : "https://api.github.com/repos/"
 }
