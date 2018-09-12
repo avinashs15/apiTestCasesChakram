@@ -6,7 +6,7 @@ Running the test case:
 
 Start with cloning the repository to your local machine using the command: git clone https://github.com/avinashs15/apiTestCasesChakram
 
-Navigate to the diroctory new10apitests
+Navigate to the diroctory apiTestCasesChakram
 
 Install the npm packages using packages.json using the command : npm install (or npm install package.josn)
 
@@ -27,7 +27,7 @@ npm install appendjson
 Directory structure
 
 
-    new10apitests |
+   apiTestCasesChakram |
             -- Specs
             
                 --main.js (has all the test cases)
