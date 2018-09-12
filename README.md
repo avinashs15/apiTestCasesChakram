@@ -4,7 +4,7 @@ Prerequisite : Nodejs and NPM is installed
 
 Running the test case:
 
-Start with cloning the repository to your local machine using the command: git clone https://gitlab.com/avinashs15/new10apitests.git
+Start with cloning the repository to your local machine using the command: git clone https://github.com/avinashs15/apiTestCasesChakram
 
 Navigate to the diroctory new10apitests
 
